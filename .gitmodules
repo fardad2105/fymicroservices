@@ -1,0 +1,3 @@
+[submodule "‫‪bamboo-specs/templates"]
+	path = ‫‪bamboo-specs/templates
+	url = ssh://github.com/fardad2105/fymicroservices.git
