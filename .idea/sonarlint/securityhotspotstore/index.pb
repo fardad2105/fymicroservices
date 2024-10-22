@@ -37,3 +37,7 @@ p
 @fraud/src/main/java/com/fy/fraud/services/FraudCheckService.java,b/3/b3fc89987802a763d9ed28d998a0d5a59977dcef
 y
 Ifraud/src/main/java/com/fy/fraud/services/impl/FraudCheckServiceImpl.java,1/7/1782f1f0711df87325de94c8c8e727f6d9d339f8
+E
+eureka-server/pom.xml,b/3/b39ae52d769ea03b699b5602439afd875433c8a7
+|
+Leureka-server/src/main/java/com/fy/eurekaserver/EurekaServerApplication.java,a/0/a01d8127d73182356dd0fb8c1bbffef5c9a1bb6a
