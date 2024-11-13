@@ -5,10 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e591e1ed-e022-4d06-9711-c57265d730bc" name="Changes" comment="create eureka microservice for connection microservices and also add spec file for implement project on bamboo">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/0/50ca5a9fb8a1603dd4fa069a0aa2e2290929975a" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/0/50ca5a9fb8a1603dd4fa069a0aa2e2290929975a" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -277,7 +273,7 @@
       <workItem from="1731139136643" duration="3283000" />
       <workItem from="1731318068150" duration="2452000" />
       <workItem from="1731410479337" duration="2174000" />
-      <workItem from="1731471612688" duration="4445000" />
+      <workItem from="1731471612688" duration="6511000" />
     </task>
     <task id="LOCAL-00001" summary="create customer module with configs">
       <option name="closed" value="true" />
