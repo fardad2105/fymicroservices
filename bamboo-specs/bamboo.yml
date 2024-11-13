@@ -1,0 +1,25 @@
+plan:
+project-key: FYM
+key: BUILD
+name: Build and Test FYMicroservices
+
+stages:
+  Build and Test:
+
+jobs:
+  Build:
+
+tasks:
+  checkout:
+
+
+description: Build and Test
+script:
+  echo "Building the project..."
+  
+  ./gradlew build
+  
+  echo "Running tests..."
+  
+  ./gradlew test
+
