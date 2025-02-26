@@ -25,10 +25,6 @@ m
 =fraud/src/main/java/com/fy/fraud/model/FraudCheckHistory.java,f/7/f722ddb4612fde9e5edb9e417480c925eba8676d
 |
 Lfraud/src/main/java/com/fy/fraud/repository/FraudCheckHistoryRepository.java,f/8/f8adc4c68b1b20f3bf13aff0d9f8f36a78e955f7
-r
-Bfraud/src/main/java/com/fy/fraud/model/dto/FraudCheckResponse.java,8/0/80afd352e7ec5a680ab15cba16061edaacbe88f3
-x
-Hcustomer/src/main/java/com/fy/customer/model/dto/FraudCheckResponse.java,3/4/34a6bd6786d449746f261ec0eb5895154461f2f1
 q
 Acustomer/src/main/java/com/fy/customer/config/CustomerConfig.java,4/8/48fd32627346de9108d00e0ef051249422d64aab
 p
@@ -45,3 +41,11 @@ Leureka-server/src/main/java/com/fy/eurekaserver/EurekaServerApplication.java,a
 -.idea/sonarlint/securityhotspotstore/index.pb,8/8/88a9255124c95bdc913197c120a8d560edc59c8e
 S
 #.idea/sonarlint/issuestore/index.pb,9/f/9fe84ebb15faf917b7def6236dba604453cc61e0
+G
+bamboo-specs/bamboo.yml,b/2/b2c0571d13217409078ea88777a0545e9accfa6a
+?
+clients/pom.xml,e/8/e897e41994586ab73af075bc072526099d5eec43
+r
+Bclients/src/main/java/com/fy/clients/fraud/FraudCheckResponse.java,0/9/09af0f5e2b32ed798611f63916b5763db26ea9de
+k
+;clients/src/main/java/com/fy/clients/fraud/FraudClient.java,2/b/2bb9eae8b7eae93fa49a2427ac8de495f20cd229
